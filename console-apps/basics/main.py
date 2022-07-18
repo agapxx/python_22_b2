@@ -32,7 +32,8 @@ print(f"My bio contains {len(bio)} letters")
 #checking for a value in string "in | val not in"
 print("hannah" not in name)
 
-# slicing string "[i:i]"
+#slicing string "[i:i]"
+
 subName = name[-5:]
 # print(subName)
 if subName == '.png':
